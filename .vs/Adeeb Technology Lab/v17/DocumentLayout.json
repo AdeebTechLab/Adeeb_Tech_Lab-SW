@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14ED06A-B003-405C-B225-EAED27F08E23}|..\\Adeeb Technology Lab\\Adeeb Technology Lab.wapproj|d:\\projects\\softwares\\adeeb technology lab\\softwear\\adeeb technology lab\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A478488-2429-4E5E-8FF7-25B259E62420}|Adeeb Tech Lab.vbproj|D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2A478488-2429-4E5E-8FF7-25B259E62420}|Adeeb Tech Lab.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A478488-2429-4E5E-8FF7-25B259E62420}|Adeeb Tech Lab.vbproj|D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2A478488-2429-4E5E-8FF7-25B259E62420}|Adeeb Tech Lab.vbproj|solutionrelative:splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Technology Lab\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "..\\Adeeb Technology Lab\\Package.appxmanifest",
+              "ToolTip": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Technology Lab\\Package.appxmanifest",
+              "RelativeToolTip": "..\\Adeeb Technology Lab\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-03-12T10:07:25.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplashScreen.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\SplashScreen.vb",
+              "RelativeDocumentMoniker": "SplashScreen.vb",
+              "ToolTip": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\SplashScreen.vb [Design]",
+              "RelativeToolTip": "SplashScreen.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-10-12T15:46:29.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Projects\\Softwares\\Adeeb Technology Lab\\Softwear\\Adeeb Tech Lab\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-10-12T15:46:24.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
